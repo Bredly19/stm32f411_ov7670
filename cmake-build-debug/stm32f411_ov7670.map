@@ -1,0 +1,1057 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o)
+                              c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (exit)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-impure.o)
+                              c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o) (_global_impure_ptr)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-init.o)
+                              c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (__libc_init_array)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-memset.o)
+                              c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (memset)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+                              c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o) (__call_exitprocs)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-atexit.o)
+                              c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o) (atexit)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-fini.o)
+                              c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o) (__libc_fini_array)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+                              c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__atexit.o)
+                              c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-atexit.o) (__register_exitproc)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crti.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crti.o
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crti.o
+ .data          0x00000000        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .rodata        0x00000000       0x24 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .text          0x00000000       0x7c c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.exidx     0x00000000       0x10 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.attributes
+                0x00000000       0x1c c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .text          0x00000000        0x0 CMakeFiles/stm32f411_ov7670.elf.dir/Src/main.c.obj
+ .data          0x00000000        0x0 CMakeFiles/stm32f411_ov7670.elf.dir/Src/main.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/stm32f411_ov7670.elf.dir/Src/main.c.obj
+ .text.dmaSetup
+                0x00000000       0x74 CMakeFiles/stm32f411_ov7670.elf.dir/Src/main.c.obj
+ .text._exit    0x00000000        0x2 CMakeFiles/stm32f411_ov7670.elf.dir/Src/main.c.obj
+ .data.buffer1  0x00000000        0x8 CMakeFiles/stm32f411_ov7670.elf.dir/Src/main.c.obj
+ .text          0x00000000        0x0 CMakeFiles/stm32f411_ov7670.elf.dir/ov7670fifo/ov7670fifo.c.obj
+ .data          0x00000000        0x0 CMakeFiles/stm32f411_ov7670.elf.dir/ov7670fifo/ov7670fifo.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/stm32f411_ov7670.elf.dir/ov7670fifo/ov7670fifo.c.obj
+ .text          0x00000000       0x14 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/CMSIS/Device/ST/STM32F4xx/Startup_stm32f411xe/startup_stm32f411xe.S.obj
+ .data          0x00000000        0x0 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/CMSIS/Device/ST/STM32F4xx/Startup_stm32f411xe/startup_stm32f411xe.S.obj
+ .bss           0x00000000        0x0 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/CMSIS/Device/ST/STM32F4xx/Startup_stm32f411xe/startup_stm32f411xe.S.obj
+ .text          0x00000000        0x0 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/CMSIS/Device/ST/STM32F4xx/Config/Source/system_stm32f4xx.c.obj
+ .data          0x00000000        0x0 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/CMSIS/Device/ST/STM32F4xx/Config/Source/system_stm32f4xx.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/CMSIS/Device/ST/STM32F4xx/Config/Source/system_stm32f4xx.c.obj
+ .text.SystemCoreClockUpdate
+                0x00000000       0xa0 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/CMSIS/Device/ST/STM32F4xx/Config/Source/system_stm32f4xx.c.obj
+ .data.AHBPrescTable
+                0x00000000       0x10 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/CMSIS/Device/ST/STM32F4xx/Config/Source/system_stm32f4xx.c.obj
+ .data.SystemCoreClock
+                0x00000000        0x4 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/CMSIS/Device/ST/STM32F4xx/Config/Source/system_stm32f4xx.c.obj
+ .text          0x00000000        0x0 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/misc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/misc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/misc.c.obj
+ .text.NVIC_SetVectorTable
+                0x00000000       0x14 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/misc.c.obj
+ .text.NVIC_SystemLPConfig
+                0x00000000       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/misc.c.obj
+ .text.SysTick_CLKSourceConfig
+                0x00000000       0x20 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/misc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.c.obj
+ .data          0x00000000        0x0 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.c.obj
+ .text.DMA_DeInit
+                0x00000000      0x158 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.c.obj
+ .text.DMA_Init
+                0x00000000       0x58 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.c.obj
+ .text.DMA_StructInit
+                0x00000000       0x22 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.c.obj
+ .text.DMA_Cmd  0x00000000       0x16 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.c.obj
+ .text.DMA_PeriphIncOffsetSizeConfig
+                0x00000000       0x16 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.c.obj
+ .text.DMA_FlowControllerConfig
+                0x00000000       0x16 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.c.obj
+ .text.DMA_SetCurrDataCounter
+                0x00000000        0x4 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.c.obj
+ .text.DMA_GetCurrDataCounter
+                0x00000000        0x6 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.c.obj
+ .text.DMA_DoubleBufferModeConfig
+                0x00000000       0x18 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.c.obj
+ .text.DMA_DoubleBufferModeCmd
+                0x00000000       0x16 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.c.obj
+ .text.DMA_MemoryTargetConfig
+                0x00000000        0xa CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.c.obj
+ .text.DMA_GetCurrentMemoryTarget
+                0x00000000        0xc CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.c.obj
+ .text.DMA_GetCmdStatus
+                0x00000000       0x10 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.c.obj
+ .text.DMA_GetFIFOStatus
+                0x00000000        0x8 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.c.obj
+ .text.DMA_GetFlagStatus
+                0x00000000       0x38 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.c.obj
+ .text.DMA_ClearFlag
+                0x00000000       0x34 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.c.obj
+ .text.DMA_ITConfig
+                0x00000000       0x3a CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.c.obj
+ .text.DMA_GetITStatus
+                0x00000000       0x60 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.c.obj
+ .text.DMA_ClearITPendingBit
+                0x00000000       0x34 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.c.obj
+ .debug_info    0x00000000      0x7d4 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.c.obj
+ .debug_abbrev  0x00000000      0x180 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.c.obj
+ .debug_loc     0x00000000      0x4c3 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.c.obj
+ .debug_aranges
+                0x00000000       0xb0 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.c.obj
+ .debug_ranges  0x00000000       0xa0 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.c.obj
+ .debug_line    0x00000000      0x87a CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.c.obj
+ .debug_str     0x00000000      0x5c8 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.c.obj
+ .debug_frame   0x00000000      0x158 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.c.obj
+ .ARM.attributes
+                0x00000000       0x2e CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.c.obj
+ .text          0x00000000        0x0 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+ .data          0x00000000        0x0 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+ .text.I2C_DeInit
+                0x00000000       0x64 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+ .text.I2C_AnalogFilterCmd
+                0x00000000       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+ .text.I2C_DigitalFilterConfig
+                0x00000000       0x12 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+ .text.I2C_AcknowledgeConfig
+                0x00000000       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+ .text.I2C_OwnAddress2Config
+                0x00000000       0x12 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+ .text.I2C_DualAddressCmd
+                0x00000000       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+ .text.I2C_GeneralCallCmd
+                0x00000000       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+ .text.I2C_SoftwareResetCmd
+                0x00000000       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+ .text.I2C_StretchClockCmd
+                0x00000000       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+ .text.I2C_FastModeDutyCycleConfig
+                0x00000000       0x20 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+ .text.I2C_NACKPositionConfig
+                0x00000000       0x20 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+ .text.I2C_SMBusAlertConfig
+                0x00000000       0x20 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+ .text.I2C_ARPCmd
+                0x00000000       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+ .text.I2C_TransmitPEC
+                0x00000000       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+ .text.I2C_PECPositionConfig
+                0x00000000       0x20 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+ .text.I2C_CalculatePEC
+                0x00000000       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+ .text.I2C_GetPEC
+                0x00000000        0x8 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+ .text.I2C_DMACmd
+                0x00000000       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+ .text.I2C_DMALastTransferCmd
+                0x00000000       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+ .text.I2C_ReadRegister
+                0x00000000       0x18 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+ .text.I2C_ITConfig
+                0x00000000       0x18 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+ .text.I2C_GetLastEvent
+                0x00000000       0x10 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+ .text.I2C_ClearFlag
+                0x00000000        0xc CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+ .text.I2C_GetITStatus
+                0x00000000       0x20 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+ .text.I2C_ClearITPendingBit
+                0x00000000        0xc CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+ .text          0x00000000        0x0 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_DeInit
+                0x00000000       0x48 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_HSEConfig
+                0x00000000       0x10 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_AdjustHSICalibrationValue
+                0x00000000       0x14 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_HSICmd
+                0x00000000        0xc CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_LSEConfig
+                0x00000000       0x30 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_LSICmd
+                0x00000000        0xc CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_PLLConfig
+                0x00000000       0x20 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_PLLCmd
+                0x00000000        0xc CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_PLLI2SConfig
+                0x00000000       0x14 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_PLLI2SCmd
+                0x00000000        0xc CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_PLLSAIConfig
+                0x00000000       0x18 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_PLLSAICmd
+                0x00000000        0xc CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_ClockSecuritySystemCmd
+                0x00000000        0xc CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_MCO1Config
+                0x00000000       0x14 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_MCO2Config
+                0x00000000       0x14 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_SYSCLKConfig
+                0x00000000       0x14 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_GetSYSCLKSource
+                0x00000000       0x10 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_HCLKConfig
+                0x00000000       0x14 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_PCLK1Config
+                0x00000000       0x14 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_PCLK2Config
+                0x00000000       0x14 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_RTCCLKConfig
+                0x00000000       0x34 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_RTCCLKCmd
+                0x00000000        0xc CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_BackupResetCmd
+                0x00000000        0xc CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_I2SCLKConfig
+                0x00000000        0xc CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_SAIBlockACLKConfig
+                0x00000000       0x18 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_SAIBlockBCLKConfig
+                0x00000000       0x18 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_SAIPLLI2SClkDivConfig
+                0x00000000       0x18 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_SAIPLLSAIClkDivConfig
+                0x00000000       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_LTDCCLKDivConfig
+                0x00000000       0x18 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_TIMCLKPresConfig
+                0x00000000        0xc CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_AHB2PeriphClockCmd
+                0x00000000       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_AHB3PeriphClockCmd
+                0x00000000       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_AHB1PeriphResetCmd
+                0x00000000       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_AHB2PeriphResetCmd
+                0x00000000       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_AHB3PeriphResetCmd
+                0x00000000       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_APB1PeriphResetCmd
+                0x00000000       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_APB2PeriphResetCmd
+                0x00000000       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_AHB1PeriphClockLPModeCmd
+                0x00000000       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_AHB2PeriphClockLPModeCmd
+                0x00000000       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_AHB3PeriphClockLPModeCmd
+                0x00000000       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_APB1PeriphClockLPModeCmd
+                0x00000000       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_APB2PeriphClockLPModeCmd
+                0x00000000       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_LSEModeConfig
+                0x00000000       0x20 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_ITConfig
+                0x00000000       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_GetFlagStatus
+                0x00000000       0x34 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_WaitForHSEStartUp
+                0x00000000       0x30 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_ClearFlag
+                0x00000000       0x10 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_GetITStatus
+                0x00000000       0x14 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text.RCC_ClearITPendingBit
+                0x00000000        0xc CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.c.obj
+ .data          0x00000000        0x0 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.c.obj
+ .text.GPIO_DeInit
+                0x00000000      0x144 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.c.obj
+ .text.GPIO_StructInit
+                0x00000000       0x12 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.c.obj
+ .text.GPIO_PinLockConfig
+                0x00000000       0x24 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.c.obj
+ .text.GPIO_ReadInputData
+                0x00000000        0x6 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.c.obj
+ .text.GPIO_ReadOutputDataBit
+                0x00000000        0xe CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.c.obj
+ .text.GPIO_ReadOutputData
+                0x00000000        0x6 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.c.obj
+ .text.GPIO_SetBits
+                0x00000000        0x4 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.c.obj
+ .text.GPIO_ResetBits
+                0x00000000        0x6 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.c.obj
+ .text.GPIO_Write
+                0x00000000        0x4 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.c.obj
+ .text          0x00000000        0x0 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+ .data          0x00000000        0x0 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+ .text.USART_DeInit
+                0x00000000       0xfc CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+ .text.USART_StructInit
+                0x00000000       0x16 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+ .text.USART_ClockInit
+                0x00000000       0x26 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+ .text.USART_ClockStructInit
+                0x00000000        0xc CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+ .text.USART_SetPrescaler
+                0x00000000       0x12 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+ .text.USART_OverSampling8Cmd
+                0x00000000       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+ .text.USART_OneBitMethodCmd
+                0x00000000       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+ .text.USART_SetAddress
+                0x00000000       0x16 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+ .text.USART_ReceiverWakeUpCmd
+                0x00000000       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+ .text.USART_WakeUpConfig
+                0x00000000       0x16 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+ .text.USART_LINBreakDetectLengthConfig
+                0x00000000       0x16 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+ .text.USART_LINCmd
+                0x00000000       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+ .text.USART_SendBreak
+                0x00000000        0xc CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+ .text.USART_HalfDuplexCmd
+                0x00000000       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+ .text.USART_SetGuardTime
+                0x00000000       0x12 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+ .text.USART_SmartCardCmd
+                0x00000000       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+ .text.USART_SmartCardNACKCmd
+                0x00000000       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+ .text.USART_IrDAConfig
+                0x00000000       0x16 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+ .text.USART_IrDACmd
+                0x00000000       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+ .text.USART_DMACmd
+                0x00000000       0x18 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+ .text.USART_ClearFlag
+                0x00000000        0x8 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+ .text          0x00000000        0x0 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_exti.c.obj
+ .data          0x00000000        0x0 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_exti.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_exti.c.obj
+ .text.EXTI_DeInit
+                0x00000000       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_exti.c.obj
+ .text.EXTI_Init
+                0x00000000       0x8c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_exti.c.obj
+ .text.EXTI_StructInit
+                0x00000000        0xe CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_exti.c.obj
+ .text.EXTI_GenerateSWInterrupt
+                0x00000000       0x10 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_exti.c.obj
+ .text.EXTI_GetFlagStatus
+                0x00000000       0x14 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_exti.c.obj
+ .text.EXTI_ClearFlag
+                0x00000000        0xc CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_exti.c.obj
+ .text.EXTI_GetITStatus
+                0x00000000       0x14 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_exti.c.obj
+ .text.EXTI_ClearITPendingBit
+                0x00000000        0xc CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_exti.c.obj
+ .debug_info    0x00000000      0x361 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_exti.c.obj
+ .debug_abbrev  0x00000000      0x1f5 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_exti.c.obj
+ .debug_loc     0x00000000      0x13d CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_exti.c.obj
+ .debug_aranges
+                0x00000000       0x58 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_exti.c.obj
+ .debug_ranges  0x00000000       0x48 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_exti.c.obj
+ .debug_line    0x00000000      0x406 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_exti.c.obj
+ .debug_str     0x00000000      0x3d2 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_exti.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_exti.c.obj
+ .debug_frame   0x00000000       0xa0 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_exti.c.obj
+ .ARM.attributes
+                0x00000000       0x2e CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_exti.c.obj
+ .text          0x00000000        0x0 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_syscfg.c.obj
+ .data          0x00000000        0x0 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_syscfg.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_syscfg.c.obj
+ .text.SYSCFG_DeInit
+                0x00000000       0x18 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_syscfg.c.obj
+ .text.SYSCFG_MemoryRemapConfig
+                0x00000000        0xc CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_syscfg.c.obj
+ .text.SYSCFG_MemorySwappingBank
+                0x00000000        0xc CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_syscfg.c.obj
+ .text.SYSCFG_EXTILineConfig
+                0x00000000       0x34 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_syscfg.c.obj
+ .text.SYSCFG_ETH_MediaInterfaceConfig
+                0x00000000        0xc CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_syscfg.c.obj
+ .text.SYSCFG_CompensationCellCmd
+                0x00000000        0xc CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_syscfg.c.obj
+ .text.SYSCFG_GetCompensationCellStatus
+                0x00000000       0x18 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_syscfg.c.obj
+ .debug_info    0x00000000      0x2e0 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_syscfg.c.obj
+ .debug_abbrev  0x00000000      0x175 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_syscfg.c.obj
+ .debug_loc     0x00000000       0x90 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_syscfg.c.obj
+ .debug_aranges
+                0x00000000       0x50 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_syscfg.c.obj
+ .debug_ranges  0x00000000       0x40 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_syscfg.c.obj
+ .debug_line    0x00000000      0x30c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_syscfg.c.obj
+ .debug_str     0x00000000      0x3ab CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_syscfg.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_syscfg.c.obj
+ .debug_frame   0x00000000       0x94 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_syscfg.c.obj
+ .ARM.attributes
+                0x00000000       0x2e CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_syscfg.c.obj
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-memset.o)
+ .text.memset   0x00000000       0xa4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x2c c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xc4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-fini.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-fini.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x00000000        0x1 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x00000000        0x1 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x00000000        0x1 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___malloc_recursive_mutex
+                0x00000000        0x1 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x00000000        0x1 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___sinit_recursive_mutex
+                0x00000000        0x1 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x00000000        0x1 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtend.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtend.o
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtend.o
+ .rodata        0x00000000       0x24 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtend.o
+ .eh_frame      0x00000000        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtend.o
+ .ARM.attributes
+                0x00000000       0x2e c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtend.o
+ .text          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtn.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtn.o
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x00020000         xrw
+FLASH            0x08000000         0x00080000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crti.o
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+LOAD CMakeFiles/stm32f411_ov7670.elf.dir/Src/main.c.obj
+LOAD CMakeFiles/stm32f411_ov7670.elf.dir/ov7670fifo/ov7670fifo.c.obj
+LOAD CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/CMSIS/Device/ST/STM32F4xx/Startup_stm32f411xe/startup_stm32f411xe.S.obj
+LOAD CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/CMSIS/Device/ST/STM32F4xx/Config/Source/system_stm32f4xx.c.obj
+LOAD CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/misc.c.obj
+LOAD CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.c.obj
+LOAD CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+LOAD CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+LOAD CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.c.obj
+LOAD CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+LOAD CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_exti.c.obj
+LOAD CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_syscfg.c.obj
+START GROUP
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a
+END GROUP
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtend.o
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtn.o
+                0x20020000                _estack = 0x20020000
+                0x00000200                _Min_Heap_Size = 0x200
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x198
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x198 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/CMSIS/Device/ST/STM32F4xx/Startup_stm32f411xe/startup_stm32f411xe.S.obj
+                0x08000000                g_pfnVectors
+                0x08000198                . = ALIGN (0x4)
+
+.text           0x08000198      0xe60
+                0x08000198                . = ALIGN (0x4)
+ *(.text)
+ .text          0x08000198       0x40 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+ *(.text*)
+ .text.usartSetup
+                0x080001d8       0x80 CMakeFiles/stm32f411_ov7670.elf.dir/Src/main.c.obj
+                0x080001d8                usartSetup
+ .text.nvicSetup
+                0x08000258       0x24 CMakeFiles/stm32f411_ov7670.elf.dir/Src/main.c.obj
+                0x08000258                nvicSetup
+ .text.main     0x0800027c       0x6c CMakeFiles/stm32f411_ov7670.elf.dir/Src/main.c.obj
+                0x0800027c                main
+ .text.USART1_IRQHandler
+                0x080002e8       0x38 CMakeFiles/stm32f411_ov7670.elf.dir/Src/main.c.obj
+                0x080002e8                USART1_IRQHandler
+ .text.i2cStart
+                0x08000320       0x30 CMakeFiles/stm32f411_ov7670.elf.dir/ov7670fifo/ov7670fifo.c.obj
+ .text.i2cSendAddress
+                0x08000350       0x3c CMakeFiles/stm32f411_ov7670.elf.dir/ov7670fifo/ov7670fifo.c.obj
+ .text.i2cTransmitByte
+                0x0800038c       0x20 CMakeFiles/stm32f411_ov7670.elf.dir/ov7670fifo/ov7670fifo.c.obj
+ .text.i2cStop  0x080003ac       0x20 CMakeFiles/stm32f411_ov7670.elf.dir/ov7670fifo/ov7670fifo.c.obj
+ .text.i2cReceiveByte
+                0x080003cc       0x20 CMakeFiles/stm32f411_ov7670.elf.dir/ov7670fifo/ov7670fifo.c.obj
+ .text.sigalizeError
+                0x080003ec       0x3c CMakeFiles/stm32f411_ov7670.elf.dir/ov7670fifo/ov7670fifo.c.obj
+ .text.i2cInit  0x08000428       0x70 CMakeFiles/stm32f411_ov7670.elf.dir/ov7670fifo/ov7670fifo.c.obj
+ .text.gpioInit
+                0x08000498       0xc4 CMakeFiles/stm32f411_ov7670.elf.dir/ov7670fifo/ov7670fifo.c.obj
+ .text.ov7670_reset
+                0x0800055c       0x38 CMakeFiles/stm32f411_ov7670.elf.dir/ov7670fifo/ov7670fifo.c.obj
+ .text.ov7670_writeRegister
+                0x08000594       0x24 CMakeFiles/stm32f411_ov7670.elf.dir/ov7670fifo/ov7670fifo.c.obj
+                0x08000594                ov7670_writeRegister
+ .text.ov7670_readRegister
+                0x080005b8       0x34 CMakeFiles/stm32f411_ov7670.elf.dir/ov7670fifo/ov7670fifo.c.obj
+                0x080005b8                ov7670_readRegister
+ .text.ov7670_checkSensor
+                0x080005ec       0x44 CMakeFiles/stm32f411_ov7670.elf.dir/ov7670fifo/ov7670fifo.c.obj
+ .text.ov7670_writeArrayRegval
+                0x08000630       0x34 CMakeFiles/stm32f411_ov7670.elf.dir/ov7670fifo/ov7670fifo.c.obj
+                0x08000630                ov7670_writeArrayRegval
+ .text.ov7670_init
+                0x08000664       0x3c CMakeFiles/stm32f411_ov7670.elf.dir/ov7670fifo/ov7670fifo.c.obj
+                0x08000664                ov7670_init
+ .text.fifo_captureFrame
+                0x080006a0       0x64 CMakeFiles/stm32f411_ov7670.elf.dir/ov7670fifo/ov7670fifo.c.obj
+                0x080006a0                fifo_captureFrame
+ .text.fifo_readReset
+                0x08000704       0x68 CMakeFiles/stm32f411_ov7670.elf.dir/ov7670fifo/ov7670fifo.c.obj
+                0x08000704                fifo_readReset
+ .text.fifo_readByte
+                0x0800076c       0x34 CMakeFiles/stm32f411_ov7670.elf.dir/ov7670fifo/ov7670fifo.c.obj
+                0x0800076c                fifo_readByte
+ .text.Reset_Handler
+                0x080007a0       0x50 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/CMSIS/Device/ST/STM32F4xx/Startup_stm32f411xe/startup_stm32f411xe.S.obj
+                0x080007a0                Reset_Handler
+ .text.Default_Handler
+                0x080007f0        0x2 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/CMSIS/Device/ST/STM32F4xx/Startup_stm32f411xe/startup_stm32f411xe.S.obj
+                0x080007f0                RTC_Alarm_IRQHandler
+                0x080007f0                EXTI2_IRQHandler
+                0x080007f0                DebugMon_Handler
+                0x080007f0                SPI4_IRQHandler
+                0x080007f0                TIM1_CC_IRQHandler
+                0x080007f0                DMA2_Stream5_IRQHandler
+                0x080007f0                HardFault_Handler
+                0x080007f0                DMA1_Stream5_IRQHandler
+                0x080007f0                SysTick_Handler
+                0x080007f0                PVD_IRQHandler
+                0x080007f0                SDIO_IRQHandler
+                0x080007f0                TAMP_STAMP_IRQHandler
+                0x080007f0                PendSV_Handler
+                0x080007f0                NMI_Handler
+                0x080007f0                EXTI3_IRQHandler
+                0x080007f0                TIM1_UP_TIM10_IRQHandler
+                0x080007f0                I2C3_ER_IRQHandler
+                0x080007f0                EXTI0_IRQHandler
+                0x080007f0                I2C2_EV_IRQHandler
+                0x080007f0                DMA1_Stream2_IRQHandler
+                0x080007f0                FPU_IRQHandler
+                0x080007f0                UsageFault_Handler
+                0x080007f0                DMA2_Stream2_IRQHandler
+                0x080007f0                SPI1_IRQHandler
+                0x080007f0                TIM1_BRK_TIM9_IRQHandler
+                0x080007f0                DMA2_Stream3_IRQHandler
+                0x080007f0                USART6_IRQHandler
+                0x080007f0                DMA2_Stream0_IRQHandler
+                0x080007f0                TIM4_IRQHandler
+                0x080007f0                I2C1_EV_IRQHandler
+                0x080007f0                DMA1_Stream6_IRQHandler
+                0x080007f0                DMA1_Stream1_IRQHandler
+                0x080007f0                TIM3_IRQHandler
+                0x080007f0                RCC_IRQHandler
+                0x080007f0                Default_Handler
+                0x080007f0                EXTI15_10_IRQHandler
+                0x080007f0                ADC_IRQHandler
+                0x080007f0                DMA1_Stream7_IRQHandler
+                0x080007f0                SPI5_IRQHandler
+                0x080007f0                TIM5_IRQHandler
+                0x080007f0                DMA2_Stream7_IRQHandler
+                0x080007f0                I2C3_EV_IRQHandler
+                0x080007f0                EXTI9_5_IRQHandler
+                0x080007f0                RTC_WKUP_IRQHandler
+                0x080007f0                SPI2_IRQHandler
+                0x080007f0                MemManage_Handler
+                0x080007f0                DMA1_Stream0_IRQHandler
+                0x080007f0                SVC_Handler
+                0x080007f0                EXTI4_IRQHandler
+                0x080007f0                WWDG_IRQHandler
+                0x080007f0                TIM2_IRQHandler
+                0x080007f0                OTG_FS_WKUP_IRQHandler
+                0x080007f0                TIM1_TRG_COM_TIM11_IRQHandler
+                0x080007f0                EXTI1_IRQHandler
+                0x080007f0                USART2_IRQHandler
+                0x080007f0                I2C2_ER_IRQHandler
+                0x080007f0                DMA2_Stream1_IRQHandler
+                0x080007f0                FLASH_IRQHandler
+                0x080007f0                DMA2_Stream4_IRQHandler
+                0x080007f0                BusFault_Handler
+                0x080007f0                OTG_FS_IRQHandler
+                0x080007f0                SPI3_IRQHandler
+                0x080007f0                DMA1_Stream4_IRQHandler
+                0x080007f0                I2C1_ER_IRQHandler
+                0x080007f0                DMA2_Stream6_IRQHandler
+                0x080007f0                DMA1_Stream3_IRQHandler
+ *fill*         0x080007f2        0x2 
+ .text.SetSysClock
+                0x080007f4       0xa4 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/CMSIS/Device/ST/STM32F4xx/Config/Source/system_stm32f4xx.c.obj
+ .text.SystemInit
+                0x08000898       0x44 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/CMSIS/Device/ST/STM32F4xx/Config/Source/system_stm32f4xx.c.obj
+                0x08000898                SystemInit
+ .text.NVIC_PriorityGroupConfig
+                0x080008dc       0x14 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/misc.c.obj
+                0x080008dc                NVIC_PriorityGroupConfig
+ .text.NVIC_Init
+                0x080008f0       0x64 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/misc.c.obj
+                0x080008f0                NVIC_Init
+ .text.I2C_Init
+                0x08000954       0xdc CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+                0x08000954                I2C_Init
+ .text.I2C_StructInit
+                0x08000a30       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+                0x08000a30                I2C_StructInit
+ .text.I2C_Cmd  0x08000a4c       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+                0x08000a4c                I2C_Cmd
+ .text.I2C_GenerateSTART
+                0x08000a68       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+                0x08000a68                I2C_GenerateSTART
+ .text.I2C_GenerateSTOP
+                0x08000a84       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+                0x08000a84                I2C_GenerateSTOP
+ .text.I2C_Send7bitAddress
+                0x08000aa0       0x12 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+                0x08000aa0                I2C_Send7bitAddress
+ .text.I2C_SendData
+                0x08000ab2        0x4 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+                0x08000ab2                I2C_SendData
+ .text.I2C_ReceiveData
+                0x08000ab6        0x6 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+                0x08000ab6                I2C_ReceiveData
+ .text.I2C_CheckEvent
+                0x08000abc       0x26 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+                0x08000abc                I2C_CheckEvent
+ .text.I2C_GetFlagStatus
+                0x08000ae2       0x38 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+                0x08000ae2                I2C_GetFlagStatus
+ *fill*         0x08000b1a        0x2 
+ .text.RCC_GetClocksFreq
+                0x08000b1c       0xb4 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+                0x08000b1c                RCC_GetClocksFreq
+ .text.RCC_AHB1PeriphClockCmd
+                0x08000bd0       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+                0x08000bd0                RCC_AHB1PeriphClockCmd
+ .text.RCC_APB1PeriphClockCmd
+                0x08000bec       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+                0x08000bec                RCC_APB1PeriphClockCmd
+ .text.RCC_APB2PeriphClockCmd
+                0x08000c08       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+                0x08000c08                RCC_APB2PeriphClockCmd
+ .text.GPIO_Init
+                0x08000c24       0xa6 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.c.obj
+                0x08000c24                GPIO_Init
+ .text.GPIO_ReadInputDataBit
+                0x08000cca        0xe CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.c.obj
+                0x08000cca                GPIO_ReadInputDataBit
+ .text.GPIO_WriteBit
+                0x08000cd8        0xc CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.c.obj
+                0x08000cd8                GPIO_WriteBit
+ .text.GPIO_ToggleBits
+                0x08000ce4        0x8 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.c.obj
+                0x08000ce4                GPIO_ToggleBits
+ .text.GPIO_PinAFConfig
+                0x08000cec       0x34 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.c.obj
+                0x08000cec                GPIO_PinAFConfig
+ .text.USART_Init
+                0x08000d20       0xcc CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+                0x08000d20                USART_Init
+ .text.USART_Cmd
+                0x08000dec       0x1c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+                0x08000dec                USART_Cmd
+ .text.USART_SendData
+                0x08000e08        0x8 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+                0x08000e08                USART_SendData
+ .text.USART_ReceiveData
+                0x08000e10        0x8 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+                0x08000e10                USART_ReceiveData
+ .text.USART_ITConfig
+                0x08000e18       0x36 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+                0x08000e18                USART_ITConfig
+ .text.USART_GetFlagStatus
+                0x08000e4e        0xe CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+                0x08000e4e                USART_GetFlagStatus
+ .text.USART_GetITStatus
+                0x08000e5c       0x4a CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+                0x08000e5c                USART_GetITStatus
+ .text.USART_ClearITPendingBit
+                0x08000ea6       0x10 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+                0x08000ea6                USART_ClearITPendingBit
+ *fill*         0x08000eb6        0x2 
+ .text.__libc_init_array
+                0x08000eb8       0x48 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-init.o)
+                0x08000eb8                __libc_init_array
+ .text.startup.register_fini
+                0x08000f00       0x14 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .text.atexit   0x08000f14        0xc c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-atexit.o)
+                0x08000f14                atexit
+ .text.__libc_fini_array
+                0x08000f20       0x2c c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-fini.o)
+                0x08000f20                __libc_fini_array
+ .text.__retarget_lock_acquire_recursive
+                0x08000f4c        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+                0x08000f4c                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x08000f50        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+                0x08000f50                __retarget_lock_release_recursive
+ .text.__register_exitproc
+                0x08000f54       0x8c c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__atexit.o)
+                0x08000f54                __register_exitproc
+ *(.glue_7)
+ .glue_7        0x08000fe0        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x08000fe0        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x08000fe0        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+ *(.init)
+ .init          0x08000fe0        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crti.o
+                0x08000fe0                _init
+ .init          0x08000fe4        0x8 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x08000fec        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crti.o
+                0x08000fec                _fini
+ .fini          0x08000ff0        0x8 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtn.o
+                0x08000ff8                . = ALIGN (0x4)
+                0x08000ff8                _etext = .
+
+.vfp11_veneer   0x08000ff8        0x0
+ .vfp11_veneer  0x08000ff8        0x0 linker stubs
+
+.v4_bx          0x08000ff8        0x0
+ .v4_bx         0x08000ff8        0x0 linker stubs
+
+.iplt           0x08000ff8        0x0
+ .iplt          0x08000ff8        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+
+.rodata         0x08000ff8       0x5c
+                0x08000ff8                . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x08000ff8       0x50 CMakeFiles/stm32f411_ov7670.elf.dir/Src/main.c.obj
+ .rodata        0x08001048        0x8 CMakeFiles/stm32f411_ov7670.elf.dir/ov7670fifo/ov7670fifo.c.obj
+ *(.rodata*)
+ .rodata._global_impure_ptr
+                0x08001050        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-impure.o)
+                0x08001050                _global_impure_ptr
+                0x08001054                . = ALIGN (0x4)
+
+.rel.dyn        0x08001054        0x0
+ .rel.iplt      0x08001054        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x08001054        0x0
+                0x08001054                __exidx_start = .
+ *(.ARM.exidx*)
+                0x08001054                __exidx_end = .
+
+.preinit_array  0x08001054        0x0
+                0x08001054                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x08001054                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x08001054        0x8
+                0x08001054                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ .init_array.00000
+                0x08001054        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x08001058        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+                0x0800105c                PROVIDE (__init_array_end = .)
+
+.fini_array     0x0800105c        0x4
+                0x0800105c                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x0800105c        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+                0x08001060                PROVIDE (__fini_array_end = .)
+                0x08001060                _sidata = LOADADDR (.data)
+
+.data           0x20000000      0x49c load address 0x08001060
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.buffer   0x20000000        0x8 CMakeFiles/stm32f411_ov7670.elf.dir/Src/main.c.obj
+                0x20000000                buffer
+ .data.ov7670_regs
+                0x20000008       0x54 CMakeFiles/stm32f411_ov7670.elf.dir/ov7670fifo/ov7670fifo.c.obj
+ .data.APBAHBPrescTable
+                0x2000005c       0x10 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ *fill*         0x2000006c        0x4 
+ .data.impure_data
+                0x20000070      0x428 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x20000498        0x4 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+                0x20000498                __atexit_recursive_mutex
+                0x2000049c                . = ALIGN (0x4)
+                0x2000049c                _edata = .
+
+.igot.plt       0x2000049c        0x0 load address 0x080014fc
+ .igot.plt      0x2000049c        0x0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+                0x2000049c                . = ALIGN (0x4)
+
+.bss            0x2000049c       0x24 load address 0x080014fc
+                0x2000049c                _sbss = .
+                0x2000049c                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x2000049c       0x1c c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+ *(.bss*)
+ .bss.readEnable
+                0x200004b8        0x1 CMakeFiles/stm32f411_ov7670.elf.dir/Src/main.c.obj
+                0x200004b8                readEnable
+ *fill*         0x200004b9        0x3 
+ .bss.__lock___atexit_recursive_mutex
+                0x200004bc        0x1 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+                0x200004bc                __lock___atexit_recursive_mutex
+ *(COMMON)
+                0x200004c0                . = ALIGN (0x4)
+ *fill*         0x200004bd        0x3 
+                0x200004c0                _ebss = .
+                0x200004c0                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x200004c0      0x600 load address 0x080014fc
+                0x200004c0                . = ALIGN (0x8)
+                [!provide]                PROVIDE (end = .)
+                [!provide]                PROVIDE (_end = .)
+                0x200006c0                . = (. + _Min_Heap_Size)
+ *fill*         0x200004c0      0x200 
+                0x20000ac0                . = (. + _Min_Stack_Size)
+ *fill*         0x200006c0      0x400 
+                0x20000ac0                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x2a
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1e c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crti.o
+ .ARM.attributes
+                0x0000001e       0x2e c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x0000004c       0x2e CMakeFiles/stm32f411_ov7670.elf.dir/Src/main.c.obj
+ .ARM.attributes
+                0x0000007a       0x2e CMakeFiles/stm32f411_ov7670.elf.dir/ov7670fifo/ov7670fifo.c.obj
+ .ARM.attributes
+                0x000000a8       0x21 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/CMSIS/Device/ST/STM32F4xx/Startup_stm32f411xe/startup_stm32f411xe.S.obj
+ .ARM.attributes
+                0x000000c9       0x2e CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/CMSIS/Device/ST/STM32F4xx/Config/Source/system_stm32f4xx.c.obj
+ .ARM.attributes
+                0x000000f7       0x2e CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/misc.c.obj
+ .ARM.attributes
+                0x00000125       0x2e CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+ .ARM.attributes
+                0x00000153       0x2e CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .ARM.attributes
+                0x00000181       0x2e CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.c.obj
+ .ARM.attributes
+                0x000001af       0x2e CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+ .ARM.attributes
+                0x000001dd       0x2e c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000020b       0x2e c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000239       0x2e c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000267       0x2e c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000295       0x2e c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x000002c3       0x2e c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .ARM.attributes
+                0x000002f1       0x2e c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x0000031f       0x1e c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp/crtn.o
+OUTPUT(stm32f411_ov7670.elf elf32-littlearm)
+LOAD linker stubs
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m/nofp\libgcc.a
+
+.debug_info     0x00000000     0x5b94
+ .debug_info    0x00000000      0xca4 CMakeFiles/stm32f411_ov7670.elf.dir/Src/main.c.obj
+ .debug_info    0x00000ca4     0x106d CMakeFiles/stm32f411_ov7670.elf.dir/ov7670fifo/ov7670fifo.c.obj
+ .debug_info    0x00001d11       0x22 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/CMSIS/Device/ST/STM32F4xx/Startup_stm32f411xe/startup_stm32f411xe.S.obj
+ .debug_info    0x00001d33      0x65e CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/CMSIS/Device/ST/STM32F4xx/Config/Source/system_stm32f4xx.c.obj
+ .debug_info    0x00002391      0x57c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/misc.c.obj
+ .debug_info    0x0000290d      0xd64 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+ .debug_info    0x00003671     0x1007 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .debug_info    0x00004678      0x8aa CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.c.obj
+ .debug_info    0x00004f22      0xc72 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+
+.debug_abbrev   0x00000000      0xf9e
+ .debug_abbrev  0x00000000      0x21c CMakeFiles/stm32f411_ov7670.elf.dir/Src/main.c.obj
+ .debug_abbrev  0x0000021c      0x294 CMakeFiles/stm32f411_ov7670.elf.dir/ov7670fifo/ov7670fifo.c.obj
+ .debug_abbrev  0x000004b0       0x12 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/CMSIS/Device/ST/STM32F4xx/Startup_stm32f411xe/startup_stm32f411xe.S.obj
+ .debug_abbrev  0x000004c2      0x187 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/CMSIS/Device/ST/STM32F4xx/Config/Source/system_stm32f4xx.c.obj
+ .debug_abbrev  0x00000649      0x187 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/misc.c.obj
+ .debug_abbrev  0x000007d0      0x1ef CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+ .debug_abbrev  0x000009bf      0x204 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .debug_abbrev  0x00000bc3      0x20e CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.c.obj
+ .debug_abbrev  0x00000dd1      0x1cd CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+
+.debug_loc      0x00000000     0x2654
+ .debug_loc     0x00000000       0x38 CMakeFiles/stm32f411_ov7670.elf.dir/Src/main.c.obj
+ .debug_loc     0x00000038      0x31c CMakeFiles/stm32f411_ov7670.elf.dir/ov7670fifo/ov7670fifo.c.obj
+ .debug_loc     0x00000354      0x158 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/CMSIS/Device/ST/STM32F4xx/Config/Source/system_stm32f4xx.c.obj
+ .debug_loc     0x000004ac      0x187 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/misc.c.obj
+ .debug_loc     0x00000633      0x82e CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+ .debug_loc     0x00000e61      0xba6 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .debug_loc     0x00001a07      0x461 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.c.obj
+ .debug_loc     0x00001e68      0x7ec CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+
+.debug_aranges  0x00000000      0x5f8
+ .debug_aranges
+                0x00000000       0x48 CMakeFiles/stm32f411_ov7670.elf.dir/Src/main.c.obj
+ .debug_aranges
+                0x00000048       0xa0 CMakeFiles/stm32f411_ov7670.elf.dir/ov7670fifo/ov7670fifo.c.obj
+ .debug_aranges
+                0x000000e8       0x28 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/CMSIS/Device/ST/STM32F4xx/Startup_stm32f411xe/startup_stm32f411xe.S.obj
+ .debug_aranges
+                0x00000110       0x30 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/CMSIS/Device/ST/STM32F4xx/Config/Source/system_stm32f4xx.c.obj
+ .debug_aranges
+                0x00000140       0x40 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/misc.c.obj
+ .debug_aranges
+                0x00000180      0x130 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+ .debug_aranges
+                0x000002b0      0x1c0 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .debug_aranges
+                0x00000470       0x88 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.c.obj
+ .debug_aranges
+                0x000004f8      0x100 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+
+.debug_ranges   0x00000000      0x5a0
+ .debug_ranges  0x00000000       0x38 CMakeFiles/stm32f411_ov7670.elf.dir/Src/main.c.obj
+ .debug_ranges  0x00000038       0xc0 CMakeFiles/stm32f411_ov7670.elf.dir/ov7670fifo/ov7670fifo.c.obj
+ .debug_ranges  0x000000f8       0x20 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/CMSIS/Device/ST/STM32F4xx/Startup_stm32f411xe/startup_stm32f411xe.S.obj
+ .debug_ranges  0x00000118       0x20 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/CMSIS/Device/ST/STM32F4xx/Config/Source/system_stm32f4xx.c.obj
+ .debug_ranges  0x00000138       0x30 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/misc.c.obj
+ .debug_ranges  0x00000168      0x120 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+ .debug_ranges  0x00000288      0x1b0 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .debug_ranges  0x00000438       0x78 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.c.obj
+ .debug_ranges  0x000004b0       0xf0 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+
+.debug_line     0x00000000     0x3b9c
+ .debug_line    0x00000000      0x403 CMakeFiles/stm32f411_ov7670.elf.dir/Src/main.c.obj
+ .debug_line    0x00000403      0x7bc CMakeFiles/stm32f411_ov7670.elf.dir/ov7670fifo/ov7670fifo.c.obj
+ .debug_line    0x00000bbf       0xd3 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/CMSIS/Device/ST/STM32F4xx/Startup_stm32f411xe/startup_stm32f411xe.S.obj
+ .debug_line    0x00000c92      0x49c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/CMSIS/Device/ST/STM32F4xx/Config/Source/system_stm32f4xx.c.obj
+ .debug_line    0x0000112e      0x38f CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/misc.c.obj
+ .debug_line    0x000014bd      0xa4c CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+ .debug_line    0x00001f09      0xd08 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .debug_line    0x00002c11      0x5fe CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.c.obj
+ .debug_line    0x0000320f      0x98d CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+
+.debug_str      0x00000000     0x2279
+ .debug_str     0x00000000      0xccc CMakeFiles/stm32f411_ov7670.elf.dir/Src/main.c.obj
+                                0xd2f (size before relaxing)
+ .debug_str     0x00000ccc      0x344 CMakeFiles/stm32f411_ov7670.elf.dir/ov7670fifo/ov7670fifo.c.obj
+                                0x774 (size before relaxing)
+ .debug_str     0x00001010       0x84 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/CMSIS/Device/ST/STM32F4xx/Startup_stm32f411xe/startup_stm32f411xe.S.obj
+                                 0xc0 (size before relaxing)
+ .debug_str     0x00001094      0x237 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/CMSIS/Device/ST/STM32F4xx/Config/Source/system_stm32f4xx.c.obj
+                                0x46b (size before relaxing)
+ .debug_str     0x000012cb      0x15f CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/misc.c.obj
+                                0x454 (size before relaxing)
+ .debug_str     0x0000142a      0x3bb CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+                                0x761 (size before relaxing)
+ .debug_str     0x000017e5      0x5f4 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+                                0xa48 (size before relaxing)
+ .debug_str     0x00001dd9      0x15a CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.c.obj
+                                0x536 (size before relaxing)
+ .debug_str     0x00001f33      0x346 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+                                0x755 (size before relaxing)
+
+.comment        0x00000000       0x49
+ .comment       0x00000000       0x49 CMakeFiles/stm32f411_ov7670.elf.dir/Src/main.c.obj
+                                 0x4a (size before relaxing)
+ .comment       0x00000049       0x4a CMakeFiles/stm32f411_ov7670.elf.dir/ov7670fifo/ov7670fifo.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/CMSIS/Device/ST/STM32F4xx/Config/Source/system_stm32f4xx.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/misc.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+
+.debug_frame    0x00000000      0xe04
+ .debug_frame   0x00000000       0xb4 CMakeFiles/stm32f411_ov7670.elf.dir/Src/main.c.obj
+ .debug_frame   0x000000b4      0x1d8 CMakeFiles/stm32f411_ov7670.elf.dir/ov7670fifo/ov7670fifo.c.obj
+ .debug_frame   0x0000028c       0x54 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/CMSIS/Device/ST/STM32F4xx/Config/Source/system_stm32f4xx.c.obj
+ .debug_frame   0x000002e0       0x60 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/misc.c.obj
+ .debug_frame   0x00000340      0x270 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c.obj
+ .debug_frame   0x000005b0      0x378 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c.obj
+ .debug_frame   0x00000928      0x118 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.c.obj
+ .debug_frame   0x00000a40      0x204 CMakeFiles/stm32f411_ov7670.elf.dir/Drivers/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c.obj
+ .debug_frame   0x00000c44       0x2c c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-init.o)
+ .debug_frame   0x00000c70       0x5c c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000ccc       0x20 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-atexit.o)
+ .debug_frame   0x00000cec       0x34 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-fini.o)
+ .debug_frame   0x00000d20       0xb0 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-lock.o)
+ .debug_frame   0x00000dd0       0x34 c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a(lib_a-__atexit.o)
